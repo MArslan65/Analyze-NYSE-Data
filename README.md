@@ -4,7 +4,6 @@ In this project, I go through the process of calculating summary statistics, dra
 I calculated three tasks in this project:
 ## Task 1:
 Calculate summary statistics and create a presentation that shares the visual and summary information
-
 ## Task 2:
 Create a dashboard for a Profit and Loss Statement that calculates the Gross Profit and Operating Profit for all the years there is historical data available for that company in the dataset.
 ## Task 3:
