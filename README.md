@@ -3,7 +3,7 @@ In this project i analyze real life data from the New York Stock Exchange datase
 In this project, i go through the process of calculating summary statistics, drawing any inference from the statistics, calculating business metrics, and using models to forecast future growth prospects for the companies. i also create presentation to communicate the results in informative ways.
 I alculate three task in this project:
 ## Task 1:
-Calculate summary statistics
+Calculate summary statistics and created presentation that shares the visual and summary information
 
 ## Task 2:
 Create a dashboard for a Profit and Loss Statement that calculates the Gross Profit, Operating Profit for all the years there is historical data available for that company in the dataset.
